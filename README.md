@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zechuan (Arthur) Lu 👋</h1>
 
 <p align="center">
-  M.S. Computer Science @ USC &nbsp;|&nbsp; Software Engineering &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Medical Imaging
+  M.S. Computer Science @ USC &nbsp;|&nbsp; Machine Learning &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Medical Imaging
 </p>
 
 <p align="center">
@@ -13,47 +13,35 @@
   </a>
 </p>
 
-## About Me
+## About
 
-- 🎓 Pursuing an **M.S. in Computer Science (General Track)** at the **University of Southern California**, expected June 2028
-- 💻 Interested in building reliable software and applying machine learning to real-world problems
-- 🧠 Focused on **software engineering, machine learning, computer vision, generative models, and healthcare AI**
-- 📍 Based in Los Angeles, California; open to **Summer 2027 internship opportunities**
+I am a Computer Science master's student at the **University of Southern California**, working at the intersection of machine learning and software engineering. My experience spans medical image translation, computer vision, multi-sensor systems, and healthcare software.
 
-## Technical Skills
+- Building reliable ML-enabled software with Python, C++, C#, and PyTorch
+- Interested in machine learning, software engineering, computer vision, medical imaging, and healthcare AI
+- Based in Los Angeles and open to Summer 2027 ML/SWE internship opportunities
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## Featured Projects
+## Selected Projects
 
 ### [Cross-Modality Conditional Diffusion Model](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
 
-A medical image translation framework for generating between corresponding T1- and T2-weighted MRI scans. Built with a customized DDPM architecture featuring anatomical-structure guidance, conditional information, classifier-free guidance, and composite reconstruction objectives.
+Built a conditional DDPM for bidirectional T1/T2 MRI translation with anatomy-consistent structural guidance, cross-attention, classifier-free guidance, and a composite MSE + L1 + SSIM objective. Achieved up to **0.90 SSIM**, **27.5 dB PSNR**, and **0.986 NCC**, and open-sourced the training and inference pipeline.
 
 `Python` `PyTorch` `Diffusion Models` `Medical Imaging` `Computer Vision`
 
 ### [Multi-Camera 6-DoF Object Pose Tracking System](https://github.com/Kaiden118/MotionCaptureSystem)
 
-A motion-capture system that combines computer vision and sensor data to estimate an object's 3D position and orientation, with components for data collection, pose estimation, backend processing, and visualization.
+Adapted OnePose++ into a multi-sensor pipeline that estimates 3D position and rotation from synchronized image and sensor inputs. Developed data-collection and preprocessing tools, a Python backend, and Vue/JavaScript visualizations for real-time tracking.
 
 `Python` `Computer Vision` `Pose Estimation` `Sensor Fusion` `6-DoF Tracking`
 
-## Current Interests
+## Publications
 
-- Software engineering for intelligent, data-driven products
-- Applied machine learning and computer vision systems
-- Generative models and multimodal learning
-- Medical imaging and healthcare technology
+- **CMCD: Conditional Diffusion Model for Medical Image Modality Translation** — First author; accepted at ICONIP 2026. [Code](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
+- S. Fan, **Z. Lu**, Z. Yan, and L. Hu. “[Interactions of three berberine mid-chain fatty acid salts with bovine serum albumin (BSA): Spectroscopic analysis and molecular docking](https://doi.org/10.1016/j.ijbiomac.2024.133370).” *International Journal of Biological Macromolecules*, 274(Pt 2), 133370, 2024.
 
----
+## Technical Skills
 
-<p align="center">
-  Feel free to connect with me on <a href="https://www.linkedin.com/in/zechuan-lu-6923a1371">LinkedIn</a> or reach me at <a href="mailto:zechuanlu7@gmail.com">zechuanlu7@gmail.com</a>.
-</p>
+**Languages:** Python, C++, C#, Java, JavaScript, SQL  
+**Machine Learning & Vision:** PyTorch, TensorFlow, Diffusion Models, Transformers, OpenCV, OpenPose  
+**Tools & Platforms:** Git, Linux, Weights & Biases, Unity, Vue.js, Raspberry Pi, Arduino
