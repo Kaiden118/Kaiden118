@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Zechuan (Arthur) Lu 👋</h1>
+<h1 align="center">Hi, I'm Arthur Lu 👋</h1>
 
 <p align="center">
-  M.S. Computer Science @ USC &nbsp;|&nbsp; Machine Learning &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Medical Imaging
+  M.S. Computer Science @ USC &nbsp;|&nbsp; Machine Learning &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Generative AI
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 I am a Computer Science master's student at the **University of Southern California**, working at the intersection of machine learning and software engineering. My experience spans medical image translation, computer vision, multi-sensor systems, and healthcare software.
 
-- Building reliable ML-enabled software with Python, C++, C#, and PyTorch
-- Interested in machine learning, software engineering, computer vision, medical imaging, and healthcare AI
-- Based in Los Angeles and open to Summer 2027 ML/SWE internship opportunities
+- Building reliable ML-enabled software with Python, C++, PyTorch and C#
+- Interested in machine learning, software engineering, computer vision, medical imaging, healthcare AI and generative ai
+- Based in Los Angeles and open to Summer 2027 MLE/SWE internship opportunities
 
 ## Selected Projects
 
@@ -37,7 +37,7 @@ Adapted OnePose++ into a multi-sensor pipeline that estimates 3D position and ro
 
 ## Publications
 
-- **CMCD: Conditional Diffusion Model for Medical Image Modality Translation** — First author; accepted at ICONIP 2026. [Code](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
+- **CMCD: Conditional Diffusion Model for Medical Image Modality Translation** — First author; accepted at ICONIP 2026(International Conference on Neural Information Processing). [Code](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
 - S. Fan, **Z. Lu**, Z. Yan, and L. Hu. “[Interactions of three berberine mid-chain fatty acid salts with bovine serum albumin (BSA): Spectroscopic analysis and molecular docking](https://doi.org/10.1016/j.ijbiomac.2024.133370).” *International Journal of Biological Macromolecules*, 274(Pt 2), 133370, 2024.
 
 ## Technical Skills
