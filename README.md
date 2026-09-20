@@ -18,7 +18,7 @@
 I am a Computer Science master's student at the **University of Southern California**, working at the intersection of machine learning and software engineering. My experience spans medical image translation, computer vision, multi-sensor systems, and healthcare software.
 
 - Building reliable ML-enabled software with Python, C++, PyTorch and C#
-- Interested in machine learning, software engineering, computer vision, medical imaging, healthcare AI and generative ai
+- Interested in machine learning, software engineering, generative AI, computer vision, medical imaging and healthcare AI
 - Based in Los Angeles and open to Summer 2027 MLE/SWE internship opportunities
 
 ## Selected Projects
