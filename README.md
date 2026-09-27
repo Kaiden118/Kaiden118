@@ -28,7 +28,7 @@ Built a **Gemini-powered agent with a custom Python tool-calling loop** to inspe
 
 Current work extends training telemetry and optimizer-parameter diagnostics to a **ResNet18 / Camelyon17-WILDS** medical-image classification baseline.
 
-`Python` `PyTorch` `LLM Agents` `Tool Calling` `Pydantic` `ML Systems` `pytest`
+`Python` `PyTorch` `LLM Agents` `Tool Calling` `Pydantic` `ML Systems`
 
 ### [CMCD | Cross-Modality Conditional Diffusion Model](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
 
