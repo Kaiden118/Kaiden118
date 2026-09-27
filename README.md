@@ -23,6 +23,12 @@ I am a Computer Science master's student at the **University of Southern Califor
 
 ## Selected Projects
 
+### [RunSleuth | Evidence-Grounded ML Training Diagnostics](https://github.com/Kaiden118/RunSleuth-Evidence-Grounded-ML-Training-Failure-Diagnosis-and-Repair-Verification)
+
+Built a Gemini 3.8 Flash tool-calling agent that inspects PyTorch training telemetry, diagnoses faults, and verifies targeted repairs through bounded reruns. Demonstrated diagnosis and repair verification for a missing optimizer step. The project also includes an instrumented ResNet18/Camelyon17-WILDS pipeline for medical-image classification experiments.
+
+`Python` `PyTorch` `LLM Agents` `Tool Calling` `ML Systems` `Medical Imaging`
+
 ### [Cross-Modality Conditional Diffusion Model](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
 
 Built a conditional DDPM for bidirectional T1/T2 MRI translation with anatomy-consistent structural guidance, cross-attention, classifier-free guidance, and a composite MSE + L1 + SSIM objective. Achieved up to **0.90 SSIM**, **27.5 dB PSNR**, and **0.986 NCC**, and open-sourced the training and inference pipeline.
