@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arthur Lu 👋</h1>
 
 <p align="center">
-  M.S. Computer Science @ USC &nbsp;|&nbsp; Machine Learning &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Generative AI
+  Machine Learning &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Generative AI
 </p>
 
 <p align="center">
