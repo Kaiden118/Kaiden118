@@ -22,13 +22,11 @@ I am a Computer Science master's student at the **University of Southern Califor
 
 ## Selected Projects
 
-### [RunSleuth | Evidence-Grounded ML Training Diagnosis & Repair Verification](https://github.com/Kaiden118/RunSleuth-Evidence-Grounded-ML-Training-Failure-Diagnosis-and-Repair-Verification)
+### [RunSleuth | Evidence-Grounded ML Training Failure Diagnosis & Repair Verification](https://github.com/Kaiden118/RunSleuth-Evidence-Grounded-ML-Training-Failure-Diagnosis-and-Repair-Verification)
 
-Built a **Gemini-powered agent with a custom Python tool-calling loop** to inspect PyTorch source code, experiment configurations, and training telemetry. It produces evidence-linked diagnoses, validates targeted repair proposals, and checks recovery through bounded training reruns, with support for excessive learning rates, missing optimizer steps, and healthy-run abstention.
+Diagnoses **silent PyTorch training faults** from gradient, optimizer and input evidence, and accepts a repair only after retraining verifies it: **98/98** runs diagnosed correctly on Camelyon17-WILDS, with **0** false positives. Now verifying repairs that **LLM agents** write for medical-imaging training code.
 
-Current work extends training telemetry and optimizer-parameter diagnostics to a **ResNet18 / Camelyon17-WILDS** medical-image classification baseline.
-
-`Python` `PyTorch` `LLM Agents` `Tool Calling` `Pydantic` `ML Systems`
+`Python` `PyTorch` `LLM Agents` `Medical Imaging`
 
 ### [CMCD | Cross-Modality Conditional Diffusion Model](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
 
@@ -44,8 +42,8 @@ Adapted OnePose++ into a multi-sensor pipeline for estimating an object's 3D pos
 
 ## Publications
 
-- **CMCD: Conditional Diffusion Model for Medical Image Modality Translation** — First author; ICONIP 2026 (International Conference on Neural Information Processing). [Code](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
-- S. Fan, **Z. Lu**, Z. Yan, and L. Hu. “[Interactions of three berberine mid-chain fatty acid salts with bovine serum albumin (BSA): Spectroscopic analysis and molecular docking](https://doi.org/10.1016/j.ijbiomac.2024.133370).” *International Journal of Biological Macromolecules*, 274(Pt 2), 133370, 2024.
+- **Lu, Z.,** Huang, M., & He, X. CMCD: Conditional Diffusion Model for Medical Image Modality Translation. International Conference on Neural Information Processing (ICONIP), 2026 (accepted). [Code](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
+- Fan, S., **Lu, Z.,** Yan, Z., & Hu, L. [Interactions of Three Berberine Mid-Chain Fatty Acid Salts with Bovine Serum Albumin (BSA): Spectroscopic Analysis and Molecular Docking](https://doi.org/10.1016/j.ijbiomac.2024.133370). International Journal of Biological Macromolecules, 274, 133370, 2024.
 
 ## Technical Skills
 
