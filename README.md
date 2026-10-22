@@ -24,9 +24,9 @@ I am a Computer Science master's student at the **University of Southern Califor
 
 ### [RunSleuth | Evidence-Grounded ML Training Failure Diagnosis & Repair Verification](https://github.com/Kaiden118/RunSleuth-Evidence-Grounded-ML-Training-Failure-Diagnosis-and-Repair-Verification)
 
-Diagnoses **silent PyTorch training faults** from gradient, optimizer and input evidence, and accepts a repair only after retraining verifies it: **98/98** runs diagnosed correctly on Camelyon17-WILDS, with **0** false positives. Now verifying repairs that **LLM agents** write for medical-imaging training code.
+Diagnoses **silent PyTorch training faults** from gradient, optimizer and input evidence, and accepts a repair only after retraining verifies it: **98/98** runs diagnosed correctly on Camelyon17-WILDS, with **0** false positives. Now verifying repairs that **LLM agents** write for medical-imaging training code and a benchmark of training pipelines on Camelyon17 and HAM10000 whose faults appear only at run time, labelled by hidden behavioural tests.
 
-`Python` `PyTorch` `LLM Agents` `Medical Imaging`
+`Python` `PyTorch` `LLM Agents` `Medical Imaging` `ML Systems`
 
 ### [CMCD | Cross-Modality Conditional Diffusion Model](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
 
