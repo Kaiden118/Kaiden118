@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arthur Lu 👋</h1>
+<h1 align="center">Hi, I'm Arthur👋</h1>
 
 <p align="center">
   Machine Learning &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Generative AI
