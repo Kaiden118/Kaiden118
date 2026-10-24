@@ -17,7 +17,7 @@
 
 I am a Computer Science master's student at the **University of Southern California**, building software for machine learning and medical imaging. My work includes evidence-grounded LLM agents for training diagnostics, diffusion models for MRI translation, and computer vision systems.
 
-- Interested in reliable ML systems, generative AI, and healthcare applications
+- Interested in reliable ML systems, healthcare applications and generative AI
 - Based in Los Angeles and open to **Summer 2027 Machine Learning / Software Engineering / AI Engineer internships**
 
 ## Selected Projects
