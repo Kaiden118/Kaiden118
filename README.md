@@ -15,7 +15,7 @@
 
 ## About
 
-I am a Computer Science master's student at the **University of Southern California**, building software for machine learning and medical imaging. My work includes evidence-grounded LLM agents for training diagnostics, diffusion models for MRI translation, and computer vision systems.
+I am a Computer Science master's student at the **University of Southern California**, building software for machine learning and medical imaging. My work includes evidence-grounded verification of LLM-agent repairs to training code, diffusion models for MRI translation, and computer vision systems.
 
 - Interested in reliable ML systems, healthcare applications and generative AI
 - Based in Los Angeles and open to **Summer 2027 Machine Learning / Software Engineering / AI Engineer internships**
@@ -24,9 +24,9 @@ I am a Computer Science master's student at the **University of Southern Califor
 
 ### [RunSleuth | Evidence-Grounded ML Training Failure Diagnosis & Repair Verification](https://github.com/Kaiden118/RunSleuth-Evidence-Grounded-ML-Training-Failure-Diagnosis-and-Repair-Verification)
 
-Diagnoses **silent PyTorch training faults** from gradient, optimizer and input evidence, and accepts a repair only after retraining verifies it: **98/98** runs diagnosed correctly on Camelyon17-WILDS, with **0** false positives. Now verifying repairs that **LLM agents** write for medical-imaging training code and a benchmark of training pipelines on Camelyon17 and HAM10000 whose faults appear only at run time, labelled by hidden behavioural tests.
+Decides whether to accept the repairs that **LLM agents** make to deep-learning training code, judging each requirement from evidence recorded while the repaired project trains and from short probe runs. On a held-out test split of **180 repairs** by five LLM agents for silent faults in pathology (Camelyon17-WILDS) and dermoscopy (HAM10000) pipelines, it accepted **0 of 16** wrong repairs and rejected **0 of 164** correct ones, sending 44 to human review; the strongest LLM reviewer accepted 2 wrong repairs (preliminary until a blind review of the labels).
 
-`Python` `PyTorch` `LLM Agents` `Medical Imaging` `ML Systems`
+`Python` `PyTorch` `LLM Agents` `Computer Vision` `Medical Imaging`
 
 ### [CMCD | Cross-Modality Conditional Diffusion Model](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model)
 
@@ -49,5 +49,5 @@ Adapted OnePose++ into a multi-sensor pipeline for estimating an object's 3D pos
 
 **Languages:** Python, C++, C#, Java, JavaScript, SQL  
 **Machine Learning & Vision:** PyTorch, TensorFlow, Diffusion Models, Transformers, OpenCV, OpenPose  
-**LLM & ML Systems:** Gemini API, Tool Calling, Training Telemetry, Pydantic, pytest  
+**LLM & ML Systems:** Gemini, Claude and OpenAI-compatible APIs, Tool Calling, LLM-as-Judge, Training Telemetry, Pydantic, pytest  
 **Tools & Platforms:** Git, Linux, Weights & Biases, Unity, Vue.js, Raspberry Pi, Arduino
