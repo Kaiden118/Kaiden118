@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arthur👋</h1>
 
 <p align="center">
-  Machine Learning &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Generative AI
+  Machine Learning &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; Software Engineering
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ I am a Computer Science master's student at the **University of Southern Califor
 
 ### [RunSleuth | Evidence-Grounded ML Training Failure Diagnosis & Repair Verification](https://github.com/Kaiden118/RunSleuth-Evidence-Grounded-ML-Training-Failure-Diagnosis-and-Repair-Verification)
 
-Decides whether to accept the repairs that **LLM agents** make to deep-learning training code, judging each requirement from evidence recorded while the repaired project trains and from short probe runs. On a held-out test split of **180 repairs** by five LLM agents for silent faults in pathology (Camelyon17-WILDS) and dermoscopy (HAM10000) pipelines, it accepted **0 of 16** wrong repairs and rejected **0 of 164** correct ones, sending 44 to human review; the strongest LLM reviewer accepted 2 wrong repairs (preliminary until a blind review of the labels).
+Checks what **LLM agents** claim about the medical image classifiers they build, against evidence rather than their words. The current study asks whether **AI auditors** can tell when an agent's claim about how its classifier will work on unseen patients or a new hospital is supported: seven LLM agents build classifiers for dermoscopy (HAM10000) and pathology (Camelyon17-WILDS), and held-out sites sealed before any agent ran score every claim. Earlier work verified agents' repairs of training code: on a test split of **180 repairs** by five LLM agents, it accepted **0 of 16** wrong repairs and rejected **0 of 164** correct ones (preliminary until a blind review of the labels).
 
 `Python` `PyTorch` `LLM Agents` `Computer Vision` `Medical Imaging`
 
