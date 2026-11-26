@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/zechuan-lu-6923a1371"><img src="https://img.shields.io/badge/LinkedIn-Arthur%20Lu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:zechuanlu7@gmail.com"><img src="https://img.shields.io/badge/Email-zechuanlu7%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://arthur-lu-website.vercel.app"><img src="https://img.shields.io/badge/Website-Arthur%20Lu-1F2328?style=flat-square" alt="Website"></a>
+  <a href="https://arthur-lu-website.vercel.app"><img src="https://img.shields.io/badge/Website-Arthur%20Lu-1F2328?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
 </p>
 
 ## About
